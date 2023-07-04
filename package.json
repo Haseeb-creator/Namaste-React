@@ -1,0 +1,29 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "'learing react from namaste react course'",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haseeb-creator/Namaste-React.git"
+  },
+  "author": "Haseeb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haseeb-creator/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/Haseeb-creator/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 4 versions"
+  ]
+}
