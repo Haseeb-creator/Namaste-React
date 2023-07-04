@@ -1,7 +1,5 @@
 # hello React
 
-```javascript
-
 # 1 : what is tilde and caret ?
 
 tilde (~) used for major update in package.json
@@ -40,4 +38,3 @@ NPM is a package manager used to install, update or remove packages and dependen
 # 5 : browserlist
 
 The browserslist configuration controls the outputted JavaScript so that the emitted code will be compatible with the browsers specified.
-```
